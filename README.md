@@ -11,7 +11,7 @@
 
 ![logo](https://github.com/prajinpatil42/Servlet_Hibernate/blob/main/Images/sh2.png)
 
-<h1>data in mysql database using hibernate </h1>
+<h1>3)data in mysql database using hibernate </h1>
 
 ![logo](https://github.com/prajinpatil42/Servlet_Hibernate/blob/main/Images/sh3.png)
 
